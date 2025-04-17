@@ -1,0 +1,15 @@
+# Visual Studio caches and user settings
+.vs/
+*.vcxproj.user
+
+# Build output
+x64/
+Debug/
+Release/
+*.exe
+*.obj
+*.pdb
+
+# Credentials file (don’t check in real passwords)
+credentials.json
+Credentials.JSON
