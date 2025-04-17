@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dev\\Projects\\LearningC\u002B\u002B\\ChatGPTTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBBEE2C0-F615-405F-A5A8-DD76FDAAD858}|ChatGPTTest.vcxproj|C:\\Dev\\Projects\\LearningC\u002B\u002B\\ChatGPTTest\\Credentials.JSON||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DBBEE2C0-F615-405F-A5A8-DD76FDAAD858}|ChatGPTTest.vcxproj|solutionrelative:Credentials.JSON||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBBEE2C0-F615-405F-A5A8-DD76FDAAD858}|ChatGPTTest.vcxproj|C:\\Dev\\Projects\\LearningC\u002B\u002B\\ChatGPTTest\\PasswordManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DBBEE2C0-F615-405F-A5A8-DD76FDAAD858}|ChatGPTTest.vcxproj|solutionrelative:PasswordManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Credentials.JSON",
+              "DocumentMoniker": "C:\\Dev\\Projects\\LearningC\u002B\u002B\\ChatGPTTest\\Credentials.JSON",
+              "RelativeDocumentMoniker": "Credentials.JSON",
+              "ToolTip": "C:\\Dev\\Projects\\LearningC\u002B\u002B\\ChatGPTTest\\Credentials.JSON",
+              "RelativeToolTip": "Credentials.JSON",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-17T01:42:36.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PasswordManager.cpp",
+              "DocumentMoniker": "C:\\Dev\\Projects\\LearningC\u002B\u002B\\ChatGPTTest\\PasswordManager.cpp",
+              "RelativeDocumentMoniker": "PasswordManager.cpp",
+              "ToolTip": "C:\\Dev\\Projects\\LearningC\u002B\u002B\\ChatGPTTest\\PasswordManager.cpp",
+              "RelativeToolTip": "PasswordManager.cpp",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAowJ0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-17T01:42:28.38Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

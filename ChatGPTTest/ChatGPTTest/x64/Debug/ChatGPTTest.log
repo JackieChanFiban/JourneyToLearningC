@@ -1,0 +1,8 @@
+﻿  JSONtest2.cpp
+C:\Dev\Projects\LearningC++\ChatGPTTest\JSONtest2.cpp(40,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Dev\Projects\LearningC++\ChatGPTTest\JSONtest2.cpp(41,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Dev\Projects\LearningC++\ChatGPTTest\JSONtest2.cpp(45,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Dev\Projects\LearningC++\ChatGPTTest\JSONtest2.cpp(46,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Dev\Projects\LearningC++\ChatGPTTest\JSONtest2.cpp(50,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Dev\Projects\LearningC++\ChatGPTTest\JSONtest2.cpp(51,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  ChatGPTTest.vcxproj -> C:\Dev\Projects\LearningC++\ChatGPTTest\x64\Debug\ChatGPTTest.exe
